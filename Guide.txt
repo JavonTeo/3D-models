@@ -1,0 +1,9 @@
+Guide:
+You can look for models in:
+- thangs.com
+- free3d.com
+- printables.com
+
+Design your own models in:
+- tinkercad.com (online editor)
+- blender
